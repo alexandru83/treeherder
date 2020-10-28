@@ -1,6 +1,6 @@
 [mozci]
 verbose = 1
-data_sources = ['treeherder', 'hgmo', 'adr']
+data_sources = ['treeherder_db', 'hgmo', 'adr']
 maxdepth = 1
 
 [mozci.cache]
